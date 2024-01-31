@@ -1,0 +1,91 @@
+
+#header {
+    background-color:pink;
+    height:50px;
+    
+
+
+}
+
+#title {
+    font-size:20px;
+}
+
+.info {
+    background-color:rgb(255, 239, 241);
+    padding-bottom:40px;
+    
+}
+
+.subtitle {
+    font-size:40px;
+    padding-left:10px;
+    padding-top:10px;
+    font-weight: bold;
+}
+
+.def {
+    padding:10px;
+    font-size:20px;
+}
+
+.rightSub {
+    font-size:25px;
+    font-weight:bold;
+    text-align:right;
+}
+
+form{
+    padding:20px
+}
+
+input,textarea {
+    padding:10px;
+    border-style:solid;
+    border-color:rgb(255, 226, 231);
+    background-color:rgb(255, 246, 248);
+    border-radius:20px;
+    border-width:3px;
+}
+.incorrect-input {
+    padding:10px;
+    border-style:solid;
+    border-color:red;
+    background-color:rgb(255, 246, 248);
+    border-radius:20px;
+    border-width:3px;
+}
+
+.chosenPage {
+
+    background-color:rgb(255, 239, 241);
+
+}
+.colHeader {
+    padding-top:15px;
+}
+
+.colHeader a {
+    text-decoration:none;
+    color:black;
+
+}
+
+.bi {
+    font-size:4rem;
+    color:rgb(252, 172, 185);
+}
+
+#rating {
+    font-size:40px;
+
+}
+
+.submit {
+    color:black;
+    background-color:rgb(255, 194, 204);
+    font-size:20px;
+    border-color:rgb(255, 171, 185);
+}
+
+
